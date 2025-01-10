@@ -33,7 +33,7 @@ I am currently a first-year PhD student at the [MAC Lab](https://mac.xmu.edu.cn/
   <div class='paper-box-image'>
     <div>
       <div class="badge">AAAI 2025</div>
-      <img src='images/StoryWeaver.png' alt="sym" width="100%">
+      <img src='images/Storyweaver.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
