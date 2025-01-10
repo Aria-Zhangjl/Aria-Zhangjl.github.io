@@ -33,7 +33,7 @@ I am currently a first-year PhD student at the [MAC Lab](https://mac.xmu.edu.cn/
   <div class='paper-box-image'>
     <div>
       <div class="badge">AAAI 2025</div>
-      <img src='images/StoryWeaver.pdf' alt="sym" width="100%">
+      <img src='images/StoryWeaver.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -41,6 +41,7 @@ I am currently a first-year PhD student at the [MAC Lab](https://mac.xmu.edu.cn/
  **StoryWeaver: A Unified World Model for Knowledge-Enhanced Story Character Customization**
  
  **Jinlu Zhang\***, Jiji Tang\*, Rongsheng Zhang, Tangjie Lv, Xiaoshuai Sun<sup>†</sup>
+ 
   AAAI 2025 <br>
   
   [Paper](https://arxiv.org/abs/2412.07375) / [Github](https://github.com/Aria-Zhangjl/StoryWeaver)
@@ -51,7 +52,7 @@ I am currently a first-year PhD student at the [MAC Lab](https://mac.xmu.edu.cn/
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICML 2024</div>
-      <img src='images/E3-FaceNet.pdf' alt="sym" width="100%">
+      <img src='images/E3Facenet.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -59,6 +60,7 @@ I am currently a first-year PhD student at the [MAC Lab](https://mac.xmu.edu.cn/
  **Fast Text-to-3D-Aware Face Generation and Manipulation via Direct Cross-modal Mapping and Geometric Regularization**
  
  **Jinlu Zhang\***, Yiyi Zhou\*, Qiancheng Zheng, Xiaoxiong Du, Gen Luo, Jun Peng, Xiaoshuai Sun<sup>†</sup>, Rongrong Ji
+ 
   ICML 2024 <br>
   
   [Paper](https://proceedings.mlr.press/v235/zhang24cp.html) / [Github](https://github.com/Aria-Zhangjl/E3-FaceNet)
@@ -69,7 +71,7 @@ I am currently a first-year PhD student at the [MAC Lab](https://mac.xmu.edu.cn/
   <div class='paper-box-image'>
     <div>
       <div class="badge">ACM MM 2023</div>
-      <img src='images/PixelFace+.png' alt="sym" width="100%">
+      <img src='images/Pixelfaceplus.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -77,6 +79,7 @@ I am currently a first-year PhD student at the [MAC Lab](https://mac.xmu.edu.cn/
  **PixelFace+: Towards Controllable Face Generation and Manipulation with Text Descriptions and Segmentation Masks**
  
   Xiaoxiong Du\*, Jun Peng\*, Yiyi Zhou, **Jinlu Zhang**, Siting Chen, Guannan Jiang, Xiaoshuai Sun<sup>†</sup>, Rongrong Ji
+  
   ACM MM 2023 <br>
   
   [Paper](https://dl.acm.org/doi/10.1145/3581783.3612067) / [Github](https://github.com/qazwsx671713/PixelFace-Plus)
