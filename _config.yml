@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jinlu Zhang"
-description              : "Home page of Jinlu Zhang. "
+description              : "PhD student in MAC Lab, Xiamen University. Focusing on vision-language, multi-modal and image generation. "
 repository               : "Aria-Zhangjl/Aria-Zhangjl.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jinlu Zhang"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/jinlu-zhang.jpg"
   bio              : "MAC Lab in Xiamen University"
   location         : "Xiamen, Fujian, China"
   employer         :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Aria-Zhangjl" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
