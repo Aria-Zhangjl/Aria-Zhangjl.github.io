@@ -84,17 +84,12 @@ I am currently a first-year PhD student at the [MAC Lab](https://mac.xmu.edu.cn/
 </div>
 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 - present*, PhD Student at MAC Lab, Xiamen University. Advisor: [Xiaoshuai Sun](https://informatics.xmu.edu.cn/)
+- *2022.09 - 2024.06*, Master of Computer Science and Technology at the School of Informatics, Xiamen University. Advisor: [Xiaoshuai Sun](https://informatics.xmu.edu.cn/)
+- *2018.09 - 2022.06*, Bachelor of Intelligent Science and Technology at the School of Informatics, Xiamen University. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.02 - 2024.08*, Fuxi AI Lab, NetEase Inc., Hangzhou, China.
